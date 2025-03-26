@@ -255,7 +255,7 @@ To reduce the risk of heart disease, these preventive actions are highly recomme
    Even mild or unusual chest discomfort should not be ignored.
 
 5. ✅ **Manage Risk Factors Together**  
-   Don’t treat blood pressure, cholesterol, and blood sugar in isolation—address them **together** as part of a lifestyle plan.
+   Don’t treat blood pressure, and blood sugar in isolation—address them **together** as part of a lifestyle plan.
 """)
 
 # 10. Conclusion
